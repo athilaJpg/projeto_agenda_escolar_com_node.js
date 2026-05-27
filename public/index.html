@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Agenda Escolar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  </h1>Agenda Escolar</h1>
+
+  <!-- GRUPOS -->
+  <section>
+    <h2>Grupos</h2>
+    <input type="text" id="nomeGrupo" placeholder="Nome do grupo">
+    <button onclick="criarGrupo()">Adicionar</button>
+    <ul id="listaGrupos"></ul>
+  </section>
+
+  <!-- CONTATOS -->
+  <section>
+    <h2>Contatos</h2>
+    <input type="text" id="nomeContato" placeholder="Nome">
+    <input type="text" id="emailContato" placeholder="Email">
+    <input type="text" id="telefoneContato" placeholder="Telefone">
+    <select id="grupoContato"></select>
+    <button onclick="criarContato()">Adicionar</button>
+    <ul id="listaContatos"></ul>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
