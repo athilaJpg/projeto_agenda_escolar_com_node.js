@@ -1,4 +1,5 @@
 # Web Agenda Escolar - Sistema web de agenda de contatos escolares com Node.js, Express e MySQL.
+<img width="996" height="622" alt="image" src="https://github.com/user-attachments/assets/dfda05e2-c80c-43c6-944b-bff897015580" />
 
 O que o sistema faz
 
