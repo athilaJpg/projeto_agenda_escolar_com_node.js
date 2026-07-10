@@ -1,6 +1,5 @@
-Web Agenda Escolar:
+# Web Agenda Escolar - Sistema web de agenda de contatos escolares com Node.js, Express e MySQL.
 
-Sistema web de agenda de contatos escolares com Node.js, Express e MySQL.
 O que o sistema faz
 
 Cadastra grupos (ex: Professores, Alunos, Fornecedores)
